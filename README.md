@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hello there, I am [Jeevnesh](https://www.linkedin.com/in/jeevnesh/)
+
+A passionate programmer 💻 and an information security enthusiast who loves to develop efficient and robust software.
+
+Over the years, I have collected several tools 🛠 in my arsenal, as a result I am extremely flexible with technology stack and enjoy developing software for varied platforms.
+
 
 <!--
 **jeevnesh/Jeevnesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
